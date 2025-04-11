@@ -1,0 +1,6 @@
+projectKey=rsa-project
+serverUrl=http://localhost:9000
+serverVersion=25.3.0.104237
+dashboardUrl=http://localhost:9000/dashboard?id=rsa-project
+ceTaskId=449b72e1-cda9-41e9-b1e3-3e9684734c7f
+ceTaskUrl=http://localhost:9000/api/ce/task?id=449b72e1-cda9-41e9-b1e3-3e9684734c7f
